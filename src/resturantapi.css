@@ -3,6 +3,11 @@ img {
     height: 40vh;
 }
 
+.icon{
+    width: 4vw;
+    height: auto;
+}
+
 .site-header {
     background-color: rgba(0, 0, 0, .85);
     -webkit-backdrop-filter: saturate(180%) blur(20px);
